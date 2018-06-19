@@ -5,6 +5,6 @@ description: fluentd is a logs collection daemon
 keywords:
 - fluentd
 maintainers:
-- name: Happiest minds
-  email: mymail
+- name: Happiest Minds
+  email: email
 
