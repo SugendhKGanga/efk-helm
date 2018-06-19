@@ -6,7 +6,7 @@ icon: https://raw.githubusercontent.com/elastic/kibana/master/src/ui/public/icon
 keywords:
 - elasticsearch
 maintainers:
-- name: prameswar lal
+- name: Happiest Minds
   email: mymail
 sources:
 - https://github.com/elastic/elasticsearch
